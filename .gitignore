@@ -1,0 +1,10 @@
+# 大文件不进 git：安装包与构建产物只作为 Release 附件上传
+*.zip
+*.exe
+*.7z
+*.rar
+_internal/
+发布包*/
+_旧版exe备份_*/
+config.json
+config/
